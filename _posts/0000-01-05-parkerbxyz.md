@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Domo arigato, OctoRoboto
+Domo arigato, Mr. Roboto
 Domo (domo), domo (domo)
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
